@@ -17,7 +17,7 @@ Voi myös yhdistellä _Italicin sisällä **bold** toimii_
 
 ##Linkki
 
-[Wikipeeeedoa](https://fi.wikipedia.org/wiki/Wikipedia)
+[Markdown language](https://guides.github.com/features/mastering-markdown/)
 
 ##Taulukko
 

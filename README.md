@@ -25,11 +25,5 @@ if (thisKurssi == dafuck){
 }
 ```
 
-```c++
-if (thisKurssi == dafuck){
-  return ohfuck
-}
-```
-
 
 

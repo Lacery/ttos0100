@@ -6,6 +6,7 @@
 __bold__
 *italic*
 _italic_
+Voi myös yhdistellä _italic*tällätapaa
 
 
 

@@ -17,6 +17,13 @@
 |Gravity|Joskus|
 
 
+##Koodi
+
+´´´
+if (isAwesome){
+  return true
+}
+´´´
 
 
 

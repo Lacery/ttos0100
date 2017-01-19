@@ -20,8 +20,8 @@
 ##Koodi
 
 ```
-if (isAwesome){
-  return true
+if (thisKurssi == dafuck){
+  return ohfuck
 }
 ```
 

@@ -1,5 +1,13 @@
 # ttos0100 Ohjelmistosuunnittelu ja -testaus
 
+##Tekstinmuotoilu
+
+**bold**
+__bold__
+*italic*
+_italic_
+
+
 
 
 ##Kuvat

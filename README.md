@@ -19,11 +19,11 @@
 
 ##Koodi
 
-´´´
+```
 if (isAwesome){
   return true
 }
-´´´
+```
 
 
 

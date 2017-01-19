@@ -19,7 +19,7 @@
 
 ##Koodi
 
-```
+```cs
 if (thisKurssi == dafuck){
   return ohfuck
 }
